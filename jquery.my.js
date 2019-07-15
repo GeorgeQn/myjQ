@@ -5,7 +5,7 @@
  *  //2.获取样式
  *  //3.操作类名: addClass/removeClass/toggleClass
  *  //4.遍历
- *  // 5. songgeceshi
+ *  
  * 
  * **/
 
